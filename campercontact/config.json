@@ -23,7 +23,7 @@
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 3,A
       "ring": 0,
       "label": "Google BigQuery",
       "active": true,
@@ -33,6 +33,14 @@
       "quadrant": 3,
       "ring": 0,
       "label": "Google Analytics",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Jetbrains AI Assistant",
+      "link": "https://www.jetbrains.com/ai/",
       "active": true,
       "moved": 0
     },

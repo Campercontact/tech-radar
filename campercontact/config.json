@@ -372,7 +372,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 0,
+      "ring": 2,
       "label": "Python",
       "active": true,
       "moved": 0

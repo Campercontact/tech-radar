@@ -47,6 +47,14 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "Design Systems",
+      "link": "https://www.designsystems.com",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "Jetbrains AI Assistant",
       "link": "https://www.jetbrains.com/ai/",
       "active": true,

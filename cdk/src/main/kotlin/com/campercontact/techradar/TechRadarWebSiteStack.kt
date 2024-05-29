@@ -21,13 +21,11 @@ class TechRadarWebSiteStack @JvmOverloads constructor(
     props: StackProps? = null
 ) : Stack(scope, id, props) {
     init {
-//        todo werkt nog niet, zie bestaande bucket cc-tech-radar (handmatig aangemaakt)
         val websiteBucket = Bucket(
             this, "WebsiteBucket", BucketProps.builder()
                 .websiteIndexDocument("index.html")
                 .blockPublicAccess(BlockPublicAccess.BLOCK_ACLS)
                 .removalPolicy(RemovalPolicy.DESTROY)
-//                .enforceSsl(true)
                 .build()
         )
 

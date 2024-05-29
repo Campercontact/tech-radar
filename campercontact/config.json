@@ -39,6 +39,14 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "Test Containers",
+      "link": "https://testcontainers.com",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "Jetbrains AI Assistant",
       "link": "https://www.jetbrains.com/ai/",
       "active": true,
@@ -279,7 +287,7 @@
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 2,
       "label": "Kotlin Multiplatform",
       "active": true,

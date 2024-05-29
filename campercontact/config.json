@@ -60,6 +60,14 @@
       "moved": 0
     },
     {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Meastro UI Testing",
+      "link": "https://maestro.mobile.dev",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 2,
       "ring": 0,
       "label": "AWS S3",
@@ -70,7 +78,6 @@
       "quadrant": 2,
       "ring": 3,
       "label": "Apache Cassandra",
-      "link": "https://engineering.zalando.com/tags/cassandra.html",
       "active": true,
       "moved": 0
     },
@@ -93,13 +100,6 @@
       "quadrant": 2,
       "ring": 3,
       "label": "HBase",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Hazelcast",
       "active": true,
       "moved": 0
     },
@@ -281,7 +281,6 @@
       "quadrant": 1,
       "ring": 3,
       "label": "Kubernetes",
-      "link": "https://engineering.zalando.com/tags/kubernetes.html",
       "active": true,
       "moved": 0
     },
@@ -296,14 +295,6 @@
       "quadrant": 1,
       "ring": 0,
       "label": "Datadog",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Clojure",
-      "link": "https://engineering.zalando.com/tags/clojure.html",
       "active": true,
       "moved": 0
     },
@@ -327,7 +318,6 @@
       "quadrant": 0,
       "ring": 3,
       "label": "GraphQL",
-      "link": "https://engineering.zalando.com/tags/graphql.html",
       "active": true,
       "moved": 0
     },
@@ -335,15 +325,27 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Haskell",
-      "link": "https://engineering.zalando.com/tags/haskell.html",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "Java",
-      "link": "https://engineering.zalando.com/tags/java.html",
+      "label": "React",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "NextJs",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Redux",
       "active": true,
       "moved": 0
     },
@@ -351,7 +353,6 @@
       "quadrant": 0,
       "ring": 0,
       "label": "JavaScript",
-      "link": "https://engineering.zalando.com/tags/javascript.html",
       "active": true,
       "moved": 0
     },
@@ -359,7 +360,6 @@
       "quadrant": 0,
       "ring": 0,
       "label": "Kotlin",
-      "link": "https://engineering.zalando.com/tags/kotlin.html",
       "active": true,
       "moved": 0
     },
@@ -367,7 +367,6 @@
       "quadrant": 0,
       "ring": 0,
       "label": "OpenAPI (Swagger)",
-      "link": "https://engineering.zalando.com/tags/openapi.html",
       "active": true,
       "moved": 0
     },
@@ -375,7 +374,6 @@
       "quadrant": 0,
       "ring": 0,
       "label": "Python",
-      "link": "https://engineering.zalando.com/tags/python.html",
       "active": true,
       "moved": 0
     },
@@ -391,7 +389,6 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Rust",
-      "link": "https://engineering.zalando.com/tags/rust.html",
       "active": true,
       "moved": 0
     },
@@ -399,7 +396,6 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Scala",
-      "link": "https://engineering.zalando.com/tags/scala.html",
       "active": true,
       "moved": 0
     },
@@ -407,7 +403,6 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Swift",
-      "link": "https://engineering.zalando.com/tags/swift.html",
       "active": true,
       "moved": 0
     },
@@ -415,7 +410,6 @@
       "quadrant": 0,
       "ring": 0,
       "label": "TypeScript",
-      "link": "https://engineering.zalando.com/tags/typescript.html",
       "active": true,
       "moved": 0
     }

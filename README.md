@@ -74,7 +74,15 @@ Radar](http://zalando.github.io/tech-radar/).
 
 ## Deployment
 
-Tech Radar is a static page, so it can be deployed using any hosting provider of your choice offering static page hosting.
+From command line:
+
+```bash
+nvm use v18.0.0
+
+sdk use java 17.0.7-zulu
+
+cdk deploy CampercontactTechRadar
+```
 
 ## Local Development
 

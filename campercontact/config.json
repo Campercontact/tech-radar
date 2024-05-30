@@ -55,6 +55,20 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "Google maps",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Mapbox",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "Jetbrains AI Assistant",
       "link": "https://www.jetbrains.com/ai/",
       "active": true,
@@ -165,7 +179,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 0,
+      "ring": 1,
       "label": "AWS ElastiCache",
       "link": "https://aws.amazon.com/elasticache//tags/redis.html",
       "active": true,

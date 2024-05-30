@@ -114,20 +114,6 @@
     },
     {
       "quadrant": 2,
-      "ring": 3,
-      "label": "Apache Cassandra",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Consul",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
       "ring": 0,
       "label": "Elasticsearch",
       "link": "https://www.elastic.co",
@@ -137,35 +123,7 @@
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "HBase",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Memcached",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
       "label": "MongoDB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "MySQL",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Oracle DB",
       "active": true,
       "moved": 0
     },
@@ -340,14 +298,6 @@
     {
       "quadrant": 0,
       "ring": 3,
-      "label": "Go",
-      "link": "",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
       "label": "GraphQL",
       "active": true,
       "moved": 0
@@ -451,27 +401,6 @@
       "ring": 2,
       "label": "Kotlin JS",
       "link": "https://kotlinlang.org/docs/js-overview.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Rust",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Scala",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Swift",
       "active": true,
       "moved": 0
     },

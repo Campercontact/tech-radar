@@ -172,20 +172,6 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Solr",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "ZooKeeper",
-      "active": true,
-      "moved": 0
-    },
-    {
       "quadrant": 1,
       "ring": 0,
       "label": "AWS CDK",
@@ -348,7 +334,14 @@
     {
       "quadrant": 0,
       "ring": 3,
-      "label": "Haskell",
+      "label": "Spring",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Hibernate / JPA",
       "active": true,
       "moved": 0
     },
@@ -391,6 +384,30 @@
       "quadrant": 0,
       "ring": 0,
       "label": "Kotlin",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Ktor",
+      "link": "https://ktor.io",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Kotlin Exposed",
+      "link": "https://github.com/JetBrains/Exposed",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Kotlin Serialization",
+      "link": "https://kotlinlang.org/docs/serialization.html",
       "active": true,
       "moved": 0
     },
